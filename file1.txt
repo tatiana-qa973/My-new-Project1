@@ -1,1 +1,2 @@
 "My test document" 
+We add a new line
